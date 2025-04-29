@@ -4,7 +4,7 @@ class CreateObj(Scene):
 
         # square = Square()
         triangle = Triangle() # create object and manipulate it
-
+        triangle.set_stroke(WHITE, width=2)
         self.add(triangle, Square()) # Add the shapes to the scene
 
         self.wait(5) # total seconds to wait for the scene to finish   
