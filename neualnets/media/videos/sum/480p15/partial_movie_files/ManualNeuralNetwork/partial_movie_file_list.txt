@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/works/A-important/A-neurals/Animation/neualnets/media/videos/sum/480p15/partial_movie_files/ManualNeuralNetwork/1185818338_954113989_223132457.mp4'
+file 'file:F:/works/A-important/A-neurals/Animation/neualnets/media/videos/sum/480p15/partial_movie_files/ManualNeuralNetwork/624642324_2696206722_1465521100.mp4'
+file 'file:F:/works/A-important/A-neurals/Animation/neualnets/media/videos/sum/480p15/partial_movie_files/ManualNeuralNetwork/624642324_4155817822_1572357079.mp4'
+file 'file:F:/works/A-important/A-neurals/Animation/neualnets/media/videos/sum/480p15/partial_movie_files/ManualNeuralNetwork/624642324_2973390906_1154663117.mp4'
+file 'file:F:/works/A-important/A-neurals/Animation/neualnets/media/videos/sum/480p15/partial_movie_files/ManualNeuralNetwork/624642324_4029365244_1782406024.mp4'
+file 'file:F:/works/A-important/A-neurals/Animation/neualnets/media/videos/sum/480p15/partial_movie_files/ManualNeuralNetwork/624642324_3055086646_3007020697.mp4'
+file 'file:F:/works/A-important/A-neurals/Animation/neualnets/media/videos/sum/480p15/partial_movie_files/ManualNeuralNetwork/624642324_3081727885_3855939530.mp4'
+file 'file:F:/works/A-important/A-neurals/Animation/neualnets/media/videos/sum/480p15/partial_movie_files/ManualNeuralNetwork/624642324_3055086646_3936464036.mp4'
+file 'file:F:/works/A-important/A-neurals/Animation/neualnets/media/videos/sum/480p15/partial_movie_files/ManualNeuralNetwork/624642324_3977112398_2646744328.mp4'
+file 'file:F:/works/A-important/A-neurals/Animation/neualnets/media/videos/sum/480p15/partial_movie_files/ManualNeuralNetwork/624642324_3055086646_1208615329.mp4'
+file 'file:F:/works/A-important/A-neurals/Animation/neualnets/media/videos/sum/480p15/partial_movie_files/ManualNeuralNetwork/624642324_784179552_392860249.mp4'
