@@ -4,7 +4,8 @@ class CreateObj(Scene):
 
         # square = Square()
         triangle = Triangle() # create object and manipulate it
-        triangle.set_stroke(WHITE, width=2)
+        triangle.set_stroke(WHITE, width=2) # used to set the color and width of the border of the triangle
+        triangle.set_fill(BLUE, opacity=0.5) # used to set the color and opacity of the fill of the triangle
         self.add(triangle, Square()) # Add the shapes to the scene
 
         self.wait(5) # total seconds to wait for the scene to finish   
